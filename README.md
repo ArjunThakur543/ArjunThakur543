@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 
 - 🔭 I’m currently working on ... React and Next
 - 🌱 I’m currently learning ... Angular
@@ -9,4 +8,4 @@
 - 💬 Ask me about ... Front-end Development
 - 📫 How to reach me: ... @arjun_thakur
 - ⚡ Fun fact: ... Humans have the largest brain in proportion to their body size of any living creatures
--->
+
