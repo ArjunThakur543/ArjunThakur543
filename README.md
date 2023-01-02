@@ -8,13 +8,12 @@
 ### Hi there 
 
 
-- 🔭 I’m currently working on ... React and Next
-- 🌱 I’m currently learning ... Angular
-- 👯 I’m looking to collaborate on ... Web-Development
-- 🤔 I’m looking for help with ... Python3
-- 💬 Ask me about ... Front-end Development
-- 📫 How to reach me: ... [@arjun_thaqur](https://www.instagram.com/arjun_thaqur/)
-- ⚡ Fun fact: ... Humans have the largest brain in proportion to their body size of any living creatures
+- 🔭 I’m A passionate Self-taught Front-end developer
+- 🌱 I’m currently learning Angular
+- 👯 I’m looking to collaborate on Web-Development
+- :computer Personal Website
+- 💬 Ask me about Front-end Development
+- ⚡ Fun fact: Humans have the largest brain in proportion to their body size of any living creatures
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -89,7 +88,7 @@
 <img src="https://img.shields.io/badge/Instagram: arjun_thaqur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
 <br>
 
 <li>
