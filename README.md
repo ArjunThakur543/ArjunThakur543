@@ -11,8 +11,8 @@
 - 🔭 I’m A passionate Self-taught Front-end developer
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on Web-Development
-- :computer Personal Website
-- 💬 Ask me about Front-end Development
+- 🖥 Personal Website [link](https://arjun-thaqur.netlify.app)
+- 💬 Ask me about Javascript and Python3
 - ⚡ Fun fact: Humans have the largest brain in proportion to their body size of any living creatures
 
 
